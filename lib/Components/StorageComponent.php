@@ -3,7 +3,7 @@
 namespace Cyy\Storage\Components;
 
 use Cyy\Storage\UploadedFile;
-use Hejiang\Storage\Drivers\BaseDriver;
+use Cyy\Storage\Drivers\BaseDriver;
 
 /**
  * Storage component
