@@ -2,3 +2,5 @@ vendor/
 .vscode/
 .DS_Store
 temp/
+.idea
+.git
